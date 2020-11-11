@@ -2,7 +2,7 @@
     "name": "nicoren/lumen-jwt-auth",
     "description": "JWT auth package for Lumen 8 and above",
     "keywords": ["jwt", "auth", "lumen"],
-    "license": "GNU GPL v3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Nicolas RENAULT",
